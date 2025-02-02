@@ -1,0 +1,6 @@
+langchain
+langchain-community
+
+langchain-groq
+crewai==0.22.5
+crewai[tools]
